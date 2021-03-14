@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular-service-worker-pwa';
+  title = 'Welocme to Angular-service-worker-pwa';
 }
